@@ -1,6 +1,6 @@
 ;;; mac-app-binding.el Emacs bindings for Mac OS X apps
 
-;; Copyright (c) 2011 Tobias Svensson <tob@tobiassvensson.co.uk>
+;; Copyright (c) 2014 Lkhagva Ochirkhuyag <ochkoo@gmail.com>
 
 ;; Author: Lkhagva Ochirkhuyag <ochkoo@gmail.com>
 ;; URL: https://github.com/ochko/mac-app-binding.el
